@@ -1,0 +1,14 @@
+{
+  "name": "ctu",
+  "version": "0.0.1",
+  "description": "CTU info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill",
+  "license": "ISC",
+  "dependencies": {
+    "airport-data": "^1.0.1"
+  }
+}
